@@ -1,0 +1,382 @@
+[
+  {
+    "title": "Snake Plant (Sansevieria)",
+    "price": 25,
+    "quantity": 100,
+    "category": "Indoor Plants",
+    "description": "The Snake Plant, or Sansevieria, is a popular indoor plant known for its upright, sword-like leaves. It is one of the most tolerant plants for low light and irregular watering, making it a perfect choice for beginners. To plant, use well-draining soil and place in indirect sunlight, though it can tolerate low light. Water every 2-3 weeks, allowing the soil to dry completely between waterings. This plant helps improve indoor air quality by filtering toxins and is highly recommended for offices and homes with limited sunlight.",
+    "shortDescription": "A low-maintenance indoor plant that improves air quality and tolerates low light.",
+    "rating": 4.8,
+    "image": "https://i.ibb.co.com/vjYP1Sc/Snake-Plant.jpg"
+  },
+  {
+    "title": "Aloe Vera",
+    "price": 30,
+    "quantity": 120,
+    "category": "Medicinal Plants",
+    "description": "Aloe Vera is a medicinal plant known for its gel-filled leaves, which have healing properties. This versatile plant can be used to soothe burns, cuts, and skin irritations. To plant Aloe Vera, use cactus or succulent soil and place in a sunny location. Water deeply but only when the soil is dry to the touch, as overwatering can cause root rot. Regularly prune older leaves for optimal growth. This plant is ideal for households looking for a functional and low-maintenance medicinal herb.",
+    "shortDescription": "A versatile herb used for skin treatments and in cosmetics, requiring minimal watering.",
+    "rating": 4.7,
+    "image": "https://i.ibb.co.com/PTMhbcX/20160808-140814-HDR-e1495892478780-600x800.jpg"
+  },
+  {
+    "title": "Golden Pothos (Money Plant)",
+    "price": 20,
+    "quantity": 150,
+    "category": "Indoor Plants",
+    "description": "Golden Pothos, commonly referred to as the Money Plant, is a fast-growing vine plant with heart-shaped, glossy leaves. It's known for its ability to purify indoor air and its easy-to-grow nature. Plant in well-draining soil and place in indirect sunlight. It can also thrive in low-light areas. Water every 1-2 weeks, allowing the soil to dry out in between. Use it to decorate spaces like bedrooms or living rooms, as it adds a touch of greenery and positive energy according to Feng Shui principles.",
+    "shortDescription": "An easy-to-grow vine plant that purifies air and thrives in low-light conditions.",
+    "rating": 4.5,
+    "image": "https://i.ibb.co.com/smRnqs9/golden-pothos-money-plant.png"
+  },
+  {
+    "title": "Spider Plant (Chlorophytum comosum)",
+    "price": 18,
+    "quantity": 200,
+    "category": "Indoor Plants",
+    "description": "The Spider Plant is a versatile indoor plant with thin, arching leaves and small, white flowers. It is well-known for its air-purifying capabilities, making it perfect for indoor environments. Plant it in well-draining soil and place it in indirect light, avoiding direct sunlight. Water every 1-2 weeks, keeping the soil lightly moist but not soggy. This hardy plant is perfect for hanging baskets or tabletops, requiring minimal care and thriving in almost any condition.",
+    "shortDescription": "A hardy indoor plant that purifies air and thrives in indirect light.",
+    "rating": 4.6,
+    "image": "https://i.ibb.co.com/Gs5WG2N/Spider-Plant-Chlorophytum-comosum.png"
+  },
+  {
+    "title": "Basil (Ocimum basilicum)",
+    "price": 15,
+    "quantity": 80,
+    "category": "Herbs",
+    "description": "Basil is an aromatic herb commonly used in cooking, especially in Italian dishes. Known for its sweet scent and flavorful leaves, it can be grown easily indoors or outdoors. Plant in nutrient-rich, well-drained soil and place in full sunlight. Water regularly but make sure the soil is not too soggy. For optimal growth, prune the plant frequently by pinching off the top leaves. Basil is an essential herb in the kitchen and is also known to repel insects, making it a dual-purpose plant.",
+    "shortDescription": "An aromatic herb used in cooking, requiring full sunlight and regular pruning.",
+    "rating": 4.9,
+    "image": "https://i.ibb.co.com/L5qjfYH/Basil-2.png"
+  },
+  {
+    "title": "Rose Plant",
+    "price": 50,
+    "quantity": 60,
+    "category": "Flowering Plants",
+    "description": "The Rose Plant is famous for its vibrant and fragrant flowers, symbolizing love and beauty. Ideal for gardens or patios, roses require rich, well-drained soil and 6 hours of daily sunlight. Water deeply once or twice a week and prune dead or diseased branches to encourage healthy blooms. Roses are used in bouquets, perfumes, and as ornamental garden plants. With proper care, these beautiful flowers will bloom throughout the growing season, adding elegance to any garden.",
+    "shortDescription": "Classic flowering plant known for its vibrant blooms and elegant fragrance.",
+    "rating": 4.8,
+    "image": "https://i.ibb.co.com/W380xRs/Rose-plant.png"
+  },
+  {
+    "title": "Lavender (Lavandula)",
+    "price": 40,
+    "quantity": 70,
+    "category": "Herbs",
+    "description": "Lavender is cherished for its fragrant purple flowers and calming properties, often used in aromatherapy and herbal remedies. Plant in well-draining, sandy soil and place in full sun. Water occasionally, ensuring the soil dries out between waterings. Prune after blooming to promote fresh growth. Lavender is commonly used in sachets, oils, and beauty products. It also repels pests, making it ideal for a fragrant and functional addition to any herb garden.",
+    "shortDescription": "Fragrant herb used in aromatherapy and cosmetics, thriving in sunny, well-drained soil.",
+    "rating": 4.7,
+    "image": "https://i.ibb.co.com/4NQP29b/lavender.jpg"
+  },
+  {
+    "title": "Peace Lily (Spathiphyllum)",
+    "price": 35,
+    "quantity": 90,
+    "category": "Indoor Plants",
+    "description": "Peace Lily is a popular houseplant with glossy leaves and striking white flowers. It’s an excellent air purifier and thrives in low-light conditions. Plant in peat-based soil and keep the soil evenly moist. Place it in indirect light, as direct sunlight can scorch its leaves. Water weekly and mist occasionally to maintain humidity. The Peace Lily is perfect for bedrooms and living spaces, offering a low-maintenance yet elegant aesthetic.",
+    "shortDescription": "An elegant indoor plant with air-purifying qualities, ideal for low-light environments.",
+    "rating": 4.9,
+    "image": "https://i.ibb.co.com/m6hnfqt/peace-lily.jpg"
+  },
+  {
+    "title": "Cactus Plant",
+    "price": 20,
+    "quantity": 150,
+    "category": "Succulents",
+    "description": "Cacti are hardy, drought-tolerant plants known for their unique shapes and ability to store water in their stems. Plant in well-drained, sandy soil and place in a location with full sunlight. Water sparingly, only when the soil is completely dry. Cacti are ideal for busy plant owners or for adding a desert aesthetic to homes. They are also used in modern minimalist interior designs. With their low-maintenance care needs, cacti can thrive even in neglected environments.",
+    "shortDescription": "Low-maintenance, drought-tolerant plants with unique shapes, perfect for minimalist decor.",
+    "rating": 4.4,
+    "image": "https://i.ibb.co.com/VWmzK43/cactus.jpg"
+  },
+  {
+    "title": "Jasmine (Jasminum)",
+    "price": 30,
+    "quantity": 75,
+    "category": "Flowering Plants",
+    "description": "Jasmine is a fragrant flowering plant with delicate white blooms, often used in perfumes and teas. Plant Jasmine in well-draining soil and place it in a location that receives partial to full sunlight. Water regularly but ensure the soil is not waterlogged. Prune after blooming to maintain its shape. Jasmine is perfect for garden trellises or fences, where it can climb and fill the air with its sweet fragrance. Its blooms are also used in spiritual ceremonies and for creating soothing tea infusions.",
+    "shortDescription": "Fragrant flowering plant used in perfumes and teas, thriving in sunny or partially shaded areas.",
+    "rating": 4.9,
+    "image": "https://i.ibb.co.com/L0YHqc2/jasmine.png"
+  },
+  {
+    "title": "Rosemary (Salvia rosmarinus)",
+    "price": 25,
+    "quantity": 110,
+    "category": "Herbs",
+    "description": "Rosemary is a fragrant herb known for its needle-like leaves and culinary uses. It requires well-draining soil and a sunny spot to thrive. Water when the top inch of soil feels dry, and ensure good air circulation to avoid mildew. Rosemary is perfect for adding flavor to meat dishes and soups, and its aroma can help improve memory and concentration.",
+    "shortDescription": "Aromatic herb used in cooking and aromatherapy, thriving in sunny and well-drained conditions.",
+    "rating": 4.7,
+    "image": "hhttps://i.ibb.co.com/Dptjm4v/rosemary.jpg"
+  },
+  {
+    "title": "Thyme (Thymus vulgaris)",
+    "price": 20,
+    "quantity": 95,
+    "category": "Herbs",
+    "description": "Thyme is a versatile herb commonly used in Mediterranean cooking. It grows best in full sun with well-drained soil. Water sparingly, as thyme is drought-resistant. Use fresh or dried leaves to season meats, vegetables, and stews. Thyme is also known for its antiseptic properties and can be used in homemade herbal remedies.",
+    "shortDescription": "A drought-tolerant herb used in cooking, with antiseptic qualities for herbal remedies.",
+    "rating": 4.6,
+    "image": "https://i.ibb.co.com/Vp0sQnq/Thyme-Mashrita-Nature-Cloud.jpg"
+  },
+  {
+    "title": "Mint (Mentha)",
+    "price": 10,
+    "quantity": 200,
+    "category": "Herbs",
+    "description": "Mint is a fast-growing herb known for its refreshing aroma and taste. It thrives in moist soil and partial shade. Water regularly to prevent it from drying out, and prune frequently to encourage new growth. Use mint in teas, cocktails, and as a garnish for desserts. It's also known for its ability to repel insects.",
+    "shortDescription": "A fast-growing herb used in teas and desserts, with insect-repelling properties.",
+    "rating": 4.8,
+    "image": "https://i.ibb.co.com/59btYSR/mint.png"
+  },
+  {
+    "title": "Orchid (Orchidaceae)",
+    "price": 50,
+    "quantity": 50,
+    "category": "Flowering Plants",
+    "description": "Orchids are exotic flowering plants known for their stunning and delicate blooms. They require well-drained, orchid-specific potting mix and indirect sunlight. Water once a week and mist regularly to maintain humidity. Orchids are popular as gifts and home decor due to their beauty and elegance.",
+    "shortDescription": "Exotic flowering plant with delicate blooms, ideal for gifts and indoor decor.",
+    "rating": 4.9,
+    "image": "https://i.ibb.co.com/KXp02Cy/orchid.jpg"
+  },
+  {
+    "title": "Succulent Mix",
+    "price": 35,
+    "quantity": 120,
+    "category": "Succulents",
+    "description": "This mix of succulents includes a variety of low-maintenance, drought-resistant plants. Each succulent is potted in well-draining, sandy soil and requires minimal watering. Place them in full sunlight for optimal growth. Ideal for decorating indoor spaces with a modern, minimalist aesthetic.",
+    "shortDescription": "A mix of low-maintenance, drought-resistant succulents perfect for indoor decor.",
+    "rating": 4.6,
+    "image": "https://ibb.co.com/s1C1ywL"
+  },
+  {
+    "title": "Philodendron",
+    "price": 28,
+    "quantity": 130,
+    "category": "Indoor Plants",
+    "description": "Philodendron is an easy-to-grow indoor plant with heart-shaped, glossy leaves. It thrives in indirect light and well-draining soil. Water when the top inch of soil is dry. Perfect for adding greenery to offices or homes, this plant is known for its air-purifying abilities.",
+    "shortDescription": "An easy-to-grow, air-purifying indoor plant with glossy leaves.",
+    "rating": 4.7,
+    "image": "https://i.ibb.co.com/NZNCZkH/image.png"
+  },
+  {
+    "title": "English Ivy (Hedera helix)",
+    "price": 22,
+    "quantity": 140,
+    "category": "Climbers",
+    "description": "English Ivy is a fast-growing climber with evergreen leaves, often used to cover walls and fences. Plant it in well-drained soil and place in partial to full shade. Water regularly, but allow the soil to dry between waterings. It is also known for improving indoor air quality when used as a houseplant.",
+    "shortDescription": "Fast-growing climber with evergreen leaves, ideal for walls, fences, and improving air quality.",
+    "rating": 4.6,
+    "image": "https://i.ibb.co.com/271Jf3p/image.png"
+  },
+  {
+    "title": "Ficus Tree (Ficus benjamina)",
+    "price": 45,
+    "quantity": 85,
+    "category": "Indoor Plants",
+    "description": "The Ficus Tree is a popular indoor plant with lush, glossy leaves. It thrives in indirect sunlight and needs regular watering, allowing the top layer of soil to dry out between waterings. It can grow into a small tree, making it a striking addition to any living space.",
+    "shortDescription": "A popular indoor plant that grows into a small tree, thriving in indirect light.",
+    "rating": 4.7,
+    "image": "https://i.ibb.co.com/K6G7kcq/image.png"
+  },
+  {
+    "title": "Bamboo Plant (Dracaena sanderiana)",
+    "price": 12,
+    "quantity": 160,
+    "category": "Indoor Plants",
+    "description": "The Bamboo Plant is a symbol of good luck and is often grown in water with pebbles. Place it in indirect sunlight and change the water every 2-4 weeks. It's a low-maintenance plant ideal for homes and offices, bringing a zen-like aesthetic to any room.",
+    "shortDescription": "A symbol of good luck, grown in water and perfect for a minimalist aesthetic.",
+    "rating": 4.8,
+    "image": "https://i.ibb.co.com/59gsC7S/image.png"
+  },
+  {
+    "title": "Geranium (Pelargonium)",
+    "price": 30,
+    "quantity": 90,
+    "category": "Flowering Plants",
+    "description": "Geranium is a colorful flowering plant that thrives in full sunlight. Plant it in well-drained soil and water regularly. Known for its vibrant flowers and pleasant fragrance, geraniums are ideal for garden borders and window boxes.",
+    "shortDescription": "Colorful flowering plant with a pleasant fragrance, perfect for gardens and window boxes.",
+    "rating": 4.7,
+    "image": "https://i.ibb.co.com/x6SWTww/image.png"
+  },
+  {
+    "title": "Pineapple Plant (Ananas comosus)",
+    "price": 40,
+    "quantity": 60,
+    "category": "Fruit Plants",
+    "description": "The Pineapple Plant is an exotic fruit plant that can be grown indoors or outdoors. It requires well-draining, sandy soil and full sunlight. Water when the soil dries out, and it will produce fruit in 2-3 years. Its spiky leaves and unique appearance make it a decorative and functional addition to any garden.",
+    "shortDescription": "Exotic fruit plant with spiky leaves, perfect for both indoor and outdoor growing.",
+    "rating": 4.8,
+    "image": "https://i.ibb.co.com/DCx3xkf/image.png"
+  },
+  {
+    "title": "Sunflower (Helianthus)",
+    "price": 15,
+    "quantity": 100,
+    "category": "Flowering Plants",
+    "description": "Sunflowers are tall, bright flowers that are easy to grow and perfect for summer gardens. Plant them in nutrient-rich, well-drained soil in full sunlight. Water regularly, ensuring the soil stays moist. Sunflowers are often used in bouquets and as ornamental plants, attracting pollinators like bees.",
+    "shortDescription": "Bright flowering plant that attracts pollinators, ideal for sunny gardens.",
+    "rating": 4.9,
+    "image": "https://i.ibb.co.com/WVZnhch/image.png"
+  },
+  {
+    "title": "Lemon Tree (Citrus limon)",
+    "price": 55,
+    "quantity": 40,
+    "category": "Fruit Plants",
+    "description": "The Lemon Tree is a small fruit tree that can be grown in gardens or large containers. It requires full sunlight and well-draining soil. Water regularly and prune to encourage growth. Lemon trees produce fruit that can be used in cooking and beverages, making them a useful and attractive addition to any space.",
+    "shortDescription": "Small fruit tree producing lemons, perfect for outdoor gardens or large containers.",
+    "rating": 4.8,
+    "image": "https://i.ibb.co.com/m9B22p3/image.png"
+  },
+  {
+    "title": "Oregano (Origanum vulgare)",
+    "price": 12,
+    "quantity": 120,
+    "category": "Herbs",
+    "description": "Oregano is a hardy herb often used in Italian and Greek cooking. It thrives in full sunlight and requires well-drained soil. Water occasionally, as oregano is drought-resistant. Its leaves can be harvested fresh or dried for use in sauces, soups, and marinades.",
+    "shortDescription": "Hardy herb used in Mediterranean cooking, drought-resistant and easy to grow.",
+    "rating": 4.7,
+    "image": "https://i.ibb.co.com/jbDfvVQ/image.png"
+  },
+  {
+    "title": "Parsley (Petroselinum crispum)",
+    "price": 10,
+    "quantity": 150,
+    "category": "Herbs",
+    "description": "Parsley is a common herb used as a garnish and seasoning in many dishes. It grows best in moist, nutrient-rich soil with full to partial sunlight. Water regularly, keeping the soil consistently moist. Parsley is easy to grow and can be used fresh or dried.",
+    "shortDescription": "Common herb used as a garnish and seasoning, thriving in moist soil and partial sunlight.",
+    "rating": 4.6,
+    "image": "https://i.ibb.co.com/f9SwKcp/image.png"
+  },
+  {
+    "title": "Cherry Blossom Tree (Prunus serrulata)",
+    "price": 100,
+    "quantity": 20,
+    "category": "Flowering Plants",
+    "description": "The Cherry Blossom Tree is known for its stunning pink blooms, symbolizing beauty and renewal. It requires full sunlight and well-drained soil. Water regularly, but avoid waterlogging. These trees are perfect for large gardens and create a breathtaking display of flowers in the spring.",
+    "shortDescription": "Ornamental tree with stunning pink blooms, perfect for large gardens.",
+    "rating": 4.9,
+    "image": "https://i.ibb.co.com/nL42t8d/image.png"
+  },
+  {
+    "title": "Strawberry Plant (Fragaria × ananassa)",
+    "price": 25,
+    "quantity": 80,
+    "category": "Fruit Plants",
+    "description": "The Strawberry Plant produces sweet, red berries in the summer. It grows best in full sunlight and nutrient-rich soil. Water regularly to keep the soil moist but not soggy. Strawberries are perfect for growing in gardens or containers and can be eaten fresh, used in desserts, or made into jam.",
+    "shortDescription": "Fruit-bearing plant producing sweet strawberries, ideal for gardens or containers.",
+    "rating": 4.8,
+    "image": "https://i.ibb.co.com/DtvCQ9F/image.png"
+  },
+  {
+    "title": "Pepper Plant (Capsicum)",
+    "price": 20,
+    "quantity": 110,
+    "category": "Fruit Plants",
+    "description": "The Pepper Plant is a versatile fruit plant producing sweet or spicy peppers. It grows best in full sunlight and well-drained soil. Water regularly and provide support for taller plants. Peppers can be harvested when green or left to ripen to red, yellow, or orange.",
+    "shortDescription": "Versatile plant producing sweet or spicy peppers, ideal for sunny gardens.",
+    "rating": 4.7,
+    "image": "https://ibb.co.com/4jKNKm3"
+  },
+  {
+    "title": "Zebra Plant (Aphelandra squarrosa)",
+    "price": 30,
+    "quantity": 100,
+    "category": "Indoor Plants",
+    "description": "The Zebra Plant is an indoor plant known for its striking green leaves with white veins and yellow flowers. It requires indirect light and well-draining soil. Water regularly, keeping the soil moist but not soggy. Perfect for adding a bold, tropical aesthetic to indoor spaces.",
+    "shortDescription": "Indoor plant with bold, striped leaves and yellow flowers, thriving in indirect light.",
+    "rating": 4.7,
+    "image": "https://ibb.co.com/wd9pBLc"
+  },
+  {
+    "title": "Daffodil (Narcissus)",
+    "price": 15,
+    "quantity": 140,
+    "category": "Flowering Plants",
+    "description": "Daffodils are bright yellow flowers that bloom in the spring, symbolizing rebirth and new beginnings. They thrive in well-drained soil and full sunlight. Water regularly during the growing season. Daffodils are perfect for borders and flower beds, adding cheerful color to any garden.",
+    "shortDescription": "Bright yellow flowers symbolizing new beginnings, perfect for spring gardens.",
+    "rating": 4.8,
+    "image": "https://ibb.co.com/qsjYqB9"
+  },
+  {
+    "title": "Marigold (Tagetes)",
+    "price": 10,
+    "quantity": 200,
+    "category": "Flowering Plants",
+    "description": "Marigolds are bright, cheerful flowers known for their pest-repelling properties. They thrive in full sunlight and well-drained soil. Water regularly and deadhead spent blooms to encourage continuous flowering. Marigolds are ideal for garden borders and vegetable patches, adding color while protecting plants from insects.",
+    "shortDescription": "Bright, pest-repelling flowers, perfect for garden borders and vegetable patches.",
+    "rating": 4.7,
+    "image": "https://ibb.co.com/VgX2YRC"
+  },
+  {
+    "title": "Bonsai Tree",
+    "price": 75,
+    "quantity": 30,
+    "category": "Indoor Plants",
+    "description": "Bonsai Trees are miniature trees grown in small containers, known for their aesthetic beauty and meticulous care. They require well-drained soil and indirect sunlight. Water regularly, ensuring the soil stays moist. Bonsai trees are perfect for creating a tranquil indoor environment and require regular pruning to maintain their shape.",
+    "shortDescription": "Miniature tree grown for aesthetic beauty, requiring meticulous care and regular pruning.",
+    "rating": 4.9,
+    "image": "https://ibb.co.com/9rbZ2dt"
+  },
+  {
+    "title": "Fern (Nephrolepis exaltata)",
+    "price": 20,
+    "quantity": 180,
+    "category": "Indoor Plants",
+    "description": "Ferns are popular indoor plants with feathery, arching fronds. They thrive in indirect light and well-drained, moist soil. Water regularly, and mist the leaves to maintain humidity. Ferns are perfect for adding a lush, tropical feel to homes and offices.",
+    "shortDescription": "Indoor plant with feathery fronds, thriving in moist, humid conditions.",
+    "rating": 4.6,
+    "image": "https://ibb.co.com/4ZyGfWq"
+  },
+  {
+    "title": "Hibiscus (Hibiscus rosa-sinensis)",
+    "price": 25,
+    "quantity": 100,
+    "category": "Flowering Plants",
+    "description": "Hibiscus is a tropical flowering plant known for its large, vibrant blooms. It requires full sunlight and well-drained soil. Water regularly, ensuring the soil stays moist. Hibiscus flowers are used in teas and herbal remedies, and they add a striking splash of color to gardens and patios.",
+    "shortDescription": "Tropical flowering plant with large, vibrant blooms, perfect for gardens and patios.",
+    "rating": 4.8,
+    "image": "https://ibb.co.com/Xjhsr20"
+  },
+  {
+    "title": "Blueberry Bush (Vaccinium)",
+    "price": 35,
+    "quantity": 50,
+    "category": "Fruit Plants",
+    "description": "The Blueberry Bush produces sweet, antioxidant-rich berries in the summer. It grows best in acidic, well-drained soil and full sunlight. Water regularly, ensuring the soil stays moist but not waterlogged. Blueberries are perfect for growing in gardens or containers and are delicious in pies, smoothies, or fresh off the bush.",
+    "shortDescription": "Fruit-bearing bush producing antioxidant-rich blueberries, ideal for gardens or containers.",
+    "rating": 4.9,
+    "image": "https://ibb.co.com/6mgmg70"
+  },
+  {
+    "title": "Jade Plant (Crassula ovata)",
+    "price": 28,
+    "quantity": 100,
+    "category": "Succulents",
+    "description": "The Jade Plant is a popular succulent with thick, fleshy leaves. It thrives in well-drained, sandy soil and bright, indirect light. Water sparingly, allowing the soil to dry out between waterings. The Jade Plant is said to bring good luck and is perfect for decorating indoor spaces with a minimalist touch.",
+    "shortDescription": "Popular succulent known for bringing good luck, thriving in bright, indirect light.",
+    "rating": 4.8,
+    "image": "https://ibb.co.com/HHzmDyJ"
+  },
+  {
+    "title": "Chili Plant (Capsicum annuum)",
+    "price": 22,
+    "quantity": 90,
+    "category": "Fruit Plants",
+    "description": "The Chili Plant produces spicy peppers that can be used in a variety of dishes. It thrives in full sunlight and well-drained soil. Water regularly, allowing the soil to dry between waterings. Perfect for home gardens, chili plants add a fiery flavor to cooking and are easy to grow.",
+    "shortDescription": "Fruit-bearing plant producing spicy peppers, ideal for sunny home gardens.",
+    "rating": 4.7,
+    "image": "https://ibb.co.com/N2hBDy3"
+  },
+  {
+    "title": "Gardenia (Gardenia jasminoides)",
+    "price": 40,
+    "quantity": 60,
+    "category": "Flowering Plants",
+    "description": "Gardenias are fragrant flowering plants known for their white, waxy blooms. They thrive in full to partial sunlight and well-drained, acidic soil. Water regularly and mist occasionally to maintain humidity. Gardenias are perfect for adding elegance and fragrance to gardens and patios.",
+    "shortDescription": "Fragrant flowering plant with elegant white blooms, ideal for gardens and patios.",
+    "rating": 4.8,
+    "image": "https://ibb.co.com/bzwqqjH"
+  }
+]
