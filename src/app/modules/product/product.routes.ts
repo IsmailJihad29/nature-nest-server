@@ -1,5 +1,5 @@
 import express from 'express';
-import { ProductController } from './product.controller';
+import { getNewArrivalsController, ProductController } from './product.controller';
 
 export const productRouter = express.Router();
 //* For get all products
@@ -21,3 +21,6 @@ productRouter
 productRouter
   .route('/products/:productId')
   .delete(ProductController.singleProductController);
+
+//* get new arival product 
+productRouter.get("/latest", getNewArrivalsController);

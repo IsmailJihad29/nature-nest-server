@@ -46,25 +46,8 @@ const getFilteredProducts = async (filters: {
   return result;
 };
 
-//* for get products with optional search query
-// const getProductFromDb = async (searchQuery?: string) => {
-//   const searchCondition = searchQuery
-//     ? {
-//         $or: [
-//           { title: { $regex: searchQuery, $options: 'i' } }, // case-insensitive search by title
-//           { description: { $regex: searchQuery, $options: 'i' } } // case-insensitive search by description
-//         ]
-//       }
-//     : {};
 
-//   const result = await TProductModel.find(searchCondition); // If no searchQuery, returns all products
-//   return result;
-// };
 
-// const getProductFromDb = async () => {
-//     const result = await TProductModel.find();
-//     return result;
-//   };
 
 //* get single product
 const getSingleProductFromDb = async (_id: string) => {
@@ -77,6 +60,13 @@ const createProductIntoDb = async (data: Partial<TProductInterface>) => {
     const result = await TProductModel.create(data);
     return result;
   };
+  
+  //* get new arival products 
+  const getNewArivalProductFromDb = async () => {
+    const result = await TProductModel.find().sort({ createdAt: -1 }).limit(4);
+    return result;
+  };
+
 
 //* update single product 
 const updateProductInDb = async (_id: string, updateData: Partial<TProductInterface>) => {
@@ -101,4 +91,5 @@ const deleteProductInDb = async (_id: string) => {
     createProductIntoDb,
     updateProductInDb,
     deleteProductInDb,
+    getNewArivalProductFromDb
   };

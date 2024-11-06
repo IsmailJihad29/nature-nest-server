@@ -8,6 +8,7 @@ export type TProductInterface ={
     description: string,
     rating: number,
     image: string,
+    createdAt: Date,
 }
 
 
@@ -42,7 +43,8 @@ const TProductSchema = new Schema({
     type: String,
     required: true,
   },
-});
+},
+{ timestamps: true });
 export const TProductModel = model<TProductInterface>('Product', TProductSchema);
 
 

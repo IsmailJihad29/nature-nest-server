@@ -67,6 +67,24 @@ const getSingleProductController: RequestHandler = catchAsync(async (req, res, n
   }
 });
 
+
+//* get new arival products 
+export const getNewArrivalsController: RequestHandler = catchAsync(async (_req, res) => {
+  try {
+    const newArrivals = await ProductServices.getNewArivalProductFromDb();
+    return res.status(200).json({
+      success: true,
+      data: newArrivals,
+    });
+  } catch (error) {
+    return res.status(500).json({
+      success: false,
+      message: "Failed to fetch new arrivals",
+      error: error instanceof Error ? error.message : "Unknown error",
+    });
+  }
+});
+
 //* for create new products
 const createProductController: RequestHandler = catchAsync(async (req, res, next) => {
   const { title, price, category, quantity, description, rating, image } = req.body;
@@ -170,5 +188,6 @@ export const ProductController = {
   getSingleProductController,
   createProductController,
   updateSingleProductController,
-  singleProductController
+  singleProductController,
+  getNewArrivalsController
 };
